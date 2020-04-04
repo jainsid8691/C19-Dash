@@ -12,4 +12,4 @@ run --- python dash.py
 
 Data Source: 'https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv'
 
-Screenshots : '[]
+Screenshots : '[](Sample_Covid19 Visualization.PNG)
